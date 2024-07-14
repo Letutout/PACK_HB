@@ -4,7 +4,7 @@
 		"0": "./argent",
 		"1": "./rouge",
 		"2": "./balance",
-		"3": "minecraft:item/string",
+		"3": "item/string",
 		"4": "./couverture",
 		"6": "./sombre"
 	},
